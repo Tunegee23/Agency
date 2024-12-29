@@ -342,7 +342,7 @@ function Home() {
         </div>
 
 
-        <div className='bg-[#28293E] md:h-[3080px] h-full '>
+        <div className='bg-[#141caa] md:h-[3080px] h-full '>
             <p className=' text-center text-[#EF6D58] font-[400] leading-[2rem] tracking-[3px] mt-[3rem] text-[16px]'>PORTFOLIO</p>
             <h2 className='font-[800] text-[40px] text-center leading-[3rem]  text-[#FFFFFF]'>Latest Work</h2>
 
